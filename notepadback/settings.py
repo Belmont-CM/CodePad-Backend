@@ -102,7 +102,7 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "codepad",
-        "USER": "zeuscm",
+        "USER": "postgres",
         "PASSWORD": "012016",
         "HOST": "localhost",
         "PORT": "5432",
